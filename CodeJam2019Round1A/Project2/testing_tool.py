@@ -16,7 +16,7 @@ except NameError:
   pass
 
 CASES = ([1, 2, 3],
-         [1, 2, 3]) # fill in your own cases
+         [1000, 20001, 38799]) # fill in your own cases
 QS = (365, 7)
 MAX_GOPHERS = (100, 10 ** 6)
 
